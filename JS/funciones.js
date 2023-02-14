@@ -146,10 +146,10 @@
 // setInterval(() => {
 //     console.log('Esta instrucción se ejecuta cada 3 segundos');
 //     }, 3000);
-  sumar (2,5,(resultado) =>);
-    setTimeout((sumar) => {
-        console.log(resultado);
-    }, 500);
+//  sumar (2,5,(resultado) =>);
+    // setTimeout((sumar) => {
+    //     console.log(resultado);
+    // }, 500);
 
     
 // const restar = (num1,num2,callback) => {
@@ -171,4 +171,4 @@
 //     };
 //     dividir (19,4,(resultado) => {
 //     console.log(resultado);
-//     });
+//     }); 
